@@ -1,0 +1,62 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "What multiplication statement matches this array?<br><img width='50%' src='./images/1.png'>",
+        
+        "options": [
+            "4 x 4 = 16",
+            "2 x 5 = 10",
+            "4 x 3 = 12",
+            "2 x 4 = 8"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q2",
+        "question": "What multiplication statement matches this array?<br><img width='50%' src='./images/2.png'>",
+        
+        "options": [
+            "2 x 2 = 4",
+            "3 x 2 = 6",
+            "2 x 3 = 5",
+            "4 x 2 = 8"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "What multiplication statement matches this array?<br><img width='50%' src='./images/3.png'>",
+        
+        "options": [
+            "2 x 4 = 8",
+            "3 x 4 = 12",
+            "4 x 2 = 6",
+            "4 x 4 = 16"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4",
+        "question": "What multiplication statement matches this array?<br><img width='50%' src='./images/4.png'>",
+        
+        "options": [
+            "3 x 3 = 6",
+            "4 x 3 = 12",
+            "2 x 3 = 6",
+            "3 x 3 = 9"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "What multiplication statement matches this array?<br><img width='50%' src='./images/5.png'>",
+        
+        "options": [
+            "3 x 2 = 5",
+            "4 x 3 = 12",
+            "3 x 3 = 9",
+            "2 x 4 = 8"
+        ],
+        "correct": 2
+    }
+]
